@@ -12,6 +12,10 @@
   /*font-family: "Arial Black", Gadget, sans-serif;*/
 }
 
+#nav-spacer {
+    width : 30em;
+}
+
 .navbar a {
   float: left;
   display: block;
@@ -44,7 +48,8 @@
   font-family: 'Fjalla One', sans-serif;
 }
 .maintext{
-  margin-top: -55%;
+  /*margin-top: -55%;*/
+  margin-top : -17em;
 
 }
 .maintext h1{
@@ -63,7 +68,7 @@
 }
 #mainImg {
   overflow: hidden;
-  width: contain;
+  width: container;
 }
 
 
